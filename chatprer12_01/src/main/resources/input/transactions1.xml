@@ -1,0 +1,2003 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<transactions>
+	<transaction>
+		<transactionId>2462744</transactionId>
+		<accountId>405</accountId>
+		<description>Skinix</description>
+		<credit/>
+		<debit>-438</debit>
+		<timestamp>2018-06-01 19:39:53</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>4252844</transactionId>
+		<accountId>296</accountId>
+		<description>Mydeo</description>
+		<credit/>
+		<debit>-3488</debit>
+		<timestamp>2018-06-25 17:36:05</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7396381</transactionId>
+		<accountId>336</accountId>
+		<description>Jaloo</description>
+		<credit/>
+		<debit>-3562</debit>
+		<timestamp>2018-06-14 11:49:18</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>9912663</transactionId>
+		<accountId>695</accountId>
+		<description>Topicstorm</description>
+		<credit/>
+		<debit>-1712</debit>
+		<timestamp>2018-06-24 23:18:32</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5577594</transactionId>
+		<accountId>888</accountId>
+		<description>Skalith</description>
+		<credit/>
+		<debit>-1566</debit>
+		<timestamp>2018-06-17 08:03:54</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>4243424</transactionId>
+		<accountId>584</accountId>
+		<description>Yakidoo</description>
+		<credit>8681.98</credit>
+		<debit/>
+		<timestamp>2018-06-12 18:39:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7175797</transactionId>
+		<accountId>795</accountId>
+		<description>Trudeo</description>
+		<credit/>
+		<debit>-3081</debit>
+		<timestamp>2018-06-01 13:12:36</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7001228</transactionId>
+		<accountId>679</accountId>
+		<description>Zava</description>
+		<credit>17137.46</credit>
+		<debit/>
+		<timestamp>2018-06-14 09:36:16</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5393887</transactionId>
+		<accountId>438</accountId>
+		<description>Myworks</description>
+		<credit>18667.10</credit>
+		<debit/>
+		<timestamp>2018-06-10 07:13:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7307488</transactionId>
+		<accountId>3</accountId>
+		<description>Photolist</description>
+		<credit>15261.01</credit>
+		<debit/>
+		<timestamp>2018-06-11 11:48:28</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>9700330</transactionId>
+		<accountId>966</accountId>
+		<description>Devify</description>
+		<credit>19769.00</credit>
+		<debit/>
+		<timestamp>2018-06-21 14:10:36</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8998465</transactionId>
+		<accountId>91</accountId>
+		<description>Dynava</description>
+		<credit/>
+		<debit>-846</debit>
+		<timestamp>2018-06-07 15:52:07</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>9836904</transactionId>
+		<accountId>959</accountId>
+		<description>Photolist</description>
+		<credit/>
+		<debit>-3308</debit>
+		<timestamp>2018-06-07 17:06:34</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6207692</transactionId>
+		<accountId>4</accountId>
+		<description>Demimbu</description>
+		<credit/>
+		<debit>-3958</debit>
+		<timestamp>2018-06-10 10:19:03</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>4115669</transactionId>
+		<accountId>753</accountId>
+		<description>Meetz</description>
+		<credit>304.66</credit>
+		<debit/>
+		<timestamp>2018-06-10 19:06:15</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>2998559</transactionId>
+		<accountId>920</accountId>
+		<description>Youfeed</description>
+		<credit/>
+		<debit>-830</debit>
+		<timestamp>2018-06-22 14:34:10</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>9549270</transactionId>
+		<accountId>735</accountId>
+		<description>Skalith</description>
+		<credit>1402.34</credit>
+		<debit/>
+		<timestamp>2018-06-15 12:19:40</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>9705329</transactionId>
+		<accountId>339</accountId>
+		<description>Realcube</description>
+		<credit/>
+		<debit>-3244</debit>
+		<timestamp>2018-06-29 11:42:39</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8704811</transactionId>
+		<accountId>462</accountId>
+		<description>Topiclounge</description>
+		<credit/>
+		<debit>-1871</debit>
+		<timestamp>2018-06-11 06:01:23</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5369335</transactionId>
+		<accountId>8</accountId>
+		<description>Tambee</description>
+		<credit/>
+		<debit>-1548</debit>
+		<timestamp>2018-06-15 08:39:28</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6327312</transactionId>
+		<accountId>386</accountId>
+		<description>Realfire</description>
+		<credit/>
+		<debit>-2543</debit>
+		<timestamp>2018-06-28 10:09:20</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>4737529</transactionId>
+		<accountId>432</accountId>
+		<description>Divape</description>
+		<credit/>
+		<debit>-3189</debit>
+		<timestamp>2018-06-08 22:19:58</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>3791891</transactionId>
+		<accountId>603</accountId>
+		<description>Flashspan</description>
+		<credit/>
+		<debit>-3403</debit>
+		<timestamp>2018-06-09 11:51:06</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>9327434</transactionId>
+		<accountId>133</accountId>
+		<description>Abata</description>
+		<credit>13893.16</credit>
+		<debit/>
+		<timestamp>2018-06-08 06:52:46</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>3782941</transactionId>
+		<accountId>796</accountId>
+		<description>Kimia</description>
+		<credit/>
+		<debit>-1473</debit>
+		<timestamp>2018-06-24 03:28:03</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8264648</transactionId>
+		<accountId>219</accountId>
+		<description>Nlounge</description>
+		<credit/>
+		<debit>-703</debit>
+		<timestamp>2018-06-07 09:40:29</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>3009671</transactionId>
+		<accountId>893</accountId>
+		<description>Oyope</description>
+		<credit/>
+		<debit>-2589</debit>
+		<timestamp>2018-06-20 17:45:56</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8522493</transactionId>
+		<accountId>662</accountId>
+		<description>Linkbridge</description>
+		<credit/>
+		<debit>-4807</debit>
+		<timestamp>2018-06-23 23:07:41</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7876733</transactionId>
+		<accountId>827</accountId>
+		<description>Thoughtstorm</description>
+		<credit>6233.80</credit>
+		<debit/>
+		<timestamp>2018-06-11 13:14:29</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>9724902</transactionId>
+		<accountId>968</accountId>
+		<description>Skinder</description>
+		<credit>1180.76</credit>
+		<debit/>
+		<timestamp>2018-06-02 21:35:10</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>2744700</transactionId>
+		<accountId>346</accountId>
+		<description>Eabox</description>
+		<credit>12718.57</credit>
+		<debit/>
+		<timestamp>2018-06-15 23:59:37</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5904876</transactionId>
+		<accountId>155</accountId>
+		<description>Zava</description>
+		<credit/>
+		<debit>-3077</debit>
+		<timestamp>2018-06-25 02:51:17</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5512686</transactionId>
+		<accountId>145</accountId>
+		<description>Blogtags</description>
+		<credit/>
+		<debit>-822</debit>
+		<timestamp>2018-06-26 10:35:52</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6960645</transactionId>
+		<accountId>737</accountId>
+		<description>Edgeify</description>
+		<credit/>
+		<debit>-911</debit>
+		<timestamp>2018-06-19 14:01:19</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7259362</transactionId>
+		<accountId>370</accountId>
+		<description>Viva</description>
+		<credit>19190.64</credit>
+		<debit/>
+		<timestamp>2018-06-22 15:32:54</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>3594861</transactionId>
+		<accountId>639</accountId>
+		<description>Yakitri</description>
+		<credit/>
+		<debit>-4704</debit>
+		<timestamp>2018-06-16 12:08:52</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>2602165</transactionId>
+		<accountId>669</accountId>
+		<description>Reallinks</description>
+		<credit/>
+		<debit>-4404</debit>
+		<timestamp>2018-06-28 20:40:28</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7014159</transactionId>
+		<accountId>834</accountId>
+		<description>Wikivu</description>
+		<credit/>
+		<debit>-44</debit>
+		<timestamp>2018-06-07 18:27:44</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>1580174</transactionId>
+		<accountId>125</accountId>
+		<description>Yodel</description>
+		<credit/>
+		<debit>-2828</debit>
+		<timestamp>2018-06-16 21:15:06</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7057055</transactionId>
+		<accountId>967</accountId>
+		<description>Oyoyo</description>
+		<credit/>
+		<debit>-3637</debit>
+		<timestamp>2018-06-20 09:43:49</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>1280775</transactionId>
+		<accountId>145</accountId>
+		<description>Avamba</description>
+		<credit/>
+		<debit>-2479</debit>
+		<timestamp>2018-06-19 16:03:41</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>4960829</transactionId>
+		<accountId>900</accountId>
+		<description>Flipstorm</description>
+		<credit/>
+		<debit>-2967</debit>
+		<timestamp>2018-06-06 15:09:22</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>2795139</transactionId>
+		<accountId>388</accountId>
+		<description>Voolia</description>
+		<credit/>
+		<debit>-899</debit>
+		<timestamp>2018-06-10 12:42:51</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8815320</transactionId>
+		<accountId>983</accountId>
+		<description>Thoughtbeat</description>
+		<credit/>
+		<debit>-1589</debit>
+		<timestamp>2018-06-26 23:48:28</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7615027</transactionId>
+		<accountId>54</accountId>
+		<description>Tazz</description>
+		<credit/>
+		<debit>-3582</debit>
+		<timestamp>2018-06-29 03:06:44</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>2716442</transactionId>
+		<accountId>677</accountId>
+		<description>Meezzy</description>
+		<credit>11979.53</credit>
+		<debit/>
+		<timestamp>2018-06-01 03:35:46</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>9264649</transactionId>
+		<accountId>217</accountId>
+		<description>Jabbercube</description>
+		<credit>6575.24</credit>
+		<debit/>
+		<timestamp>2018-06-26 20:39:46</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5988145</transactionId>
+		<accountId>958</accountId>
+		<description>Blogspan</description>
+		<credit/>
+		<debit>-629</debit>
+		<timestamp>2018-06-10 04:52:35</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6702631</transactionId>
+		<accountId>769</accountId>
+		<description>Oyonder</description>
+		<credit>18341.23</credit>
+		<debit/>
+		<timestamp>2018-06-06 21:02:47</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5702283</transactionId>
+		<accountId>830</accountId>
+		<description>Katz</description>
+		<credit/>
+		<debit>-4538</debit>
+		<timestamp>2018-06-02 03:31:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>2103095</transactionId>
+		<accountId>94</accountId>
+		<description>Edgeclub</description>
+		<credit/>
+		<debit>-4733</debit>
+		<timestamp>2018-06-05 04:26:33</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5093608</transactionId>
+		<accountId>647</accountId>
+		<description>Myworks</description>
+		<credit>3290.52</credit>
+		<debit/>
+		<timestamp>2018-06-19 07:07:25</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5194550</transactionId>
+		<accountId>641</accountId>
+		<description>Zoombox</description>
+		<credit/>
+		<debit>-4974</debit>
+		<timestamp>2018-06-20 08:30:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>4669597</transactionId>
+		<accountId>506</accountId>
+		<description>Photolist</description>
+		<credit/>
+		<debit>-3097</debit>
+		<timestamp>2018-06-18 23:15:53</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>1782397</transactionId>
+		<accountId>102</accountId>
+		<description>Rhybox</description>
+		<credit/>
+		<debit>-3830</debit>
+		<timestamp>2018-06-03 20:44:03</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6223616</transactionId>
+		<accountId>478</accountId>
+		<description>Aivee</description>
+		<credit/>
+		<debit>-460</debit>
+		<timestamp>2018-06-08 07:34:47</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6133052</transactionId>
+		<accountId>387</accountId>
+		<description>Wordware</description>
+		<credit/>
+		<debit>-4541</debit>
+		<timestamp>2018-06-20 06:57:06</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8267472</transactionId>
+		<accountId>395</accountId>
+		<description>Snaptags</description>
+		<credit/>
+		<debit>-2005</debit>
+		<timestamp>2018-06-26 15:53:04</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5940831</transactionId>
+		<accountId>920</accountId>
+		<description>Photojam</description>
+		<credit/>
+		<debit>-2689</debit>
+		<timestamp>2018-06-03 23:18:28</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8909864</transactionId>
+		<accountId>940</accountId>
+		<description>Yombu</description>
+		<credit/>
+		<debit>-3644</debit>
+		<timestamp>2018-06-11 19:46:57</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>4560756</transactionId>
+		<accountId>289</accountId>
+		<description>Podcat</description>
+		<credit>2489.66</credit>
+		<debit/>
+		<timestamp>2018-06-24 20:49:03</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>2650507</transactionId>
+		<accountId>534</accountId>
+		<description>Buzzster</description>
+		<credit/>
+		<debit>-4849</debit>
+		<timestamp>2018-06-09 07:05:52</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>3350665</transactionId>
+		<accountId>95</accountId>
+		<description>Eamia</description>
+		<credit/>
+		<debit>-4049</debit>
+		<timestamp>2018-06-29 12:05:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>2371891</transactionId>
+		<accountId>285</accountId>
+		<description>Linkbuzz</description>
+		<credit>22222.40</credit>
+		<debit/>
+		<timestamp>2018-06-20 20:18:02</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8290253</transactionId>
+		<accountId>734</accountId>
+		<description>Divanoodle</description>
+		<credit/>
+		<debit>-3441</debit>
+		<timestamp>2018-06-01 00:02:26</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>3858879</transactionId>
+		<accountId>524</accountId>
+		<description>Gabspot</description>
+		<credit/>
+		<debit>-3513</debit>
+		<timestamp>2018-06-21 19:52:03</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7872945</transactionId>
+		<accountId>941</accountId>
+		<description>Nlounge</description>
+		<credit/>
+		<debit>-4310</debit>
+		<timestamp>2018-06-23 04:53:31</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>3611046</transactionId>
+		<accountId>85</accountId>
+		<description>Chatterpoint</description>
+		<credit/>
+		<debit>-2478</debit>
+		<timestamp>2018-06-05 04:48:39</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5627351</transactionId>
+		<accountId>967</accountId>
+		<description>Skiba</description>
+		<credit/>
+		<debit>-3562</debit>
+		<timestamp>2018-06-21 04:25:52</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6424946</transactionId>
+		<accountId>465</accountId>
+		<description>Centimia</description>
+		<credit>12761.93</credit>
+		<debit/>
+		<timestamp>2018-06-17 10:01:40</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>4647648</transactionId>
+		<accountId>707</accountId>
+		<description>Dynazzy</description>
+		<credit/>
+		<debit>-615</debit>
+		<timestamp>2018-06-28 04:26:19</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7873481</transactionId>
+		<accountId>846</accountId>
+		<description>Eazzy</description>
+		<credit>16476.18</credit>
+		<debit/>
+		<timestamp>2018-06-19 03:50:51</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>9272240</transactionId>
+		<accountId>678</accountId>
+		<description>Blogtags</description>
+		<credit>17654.79</credit>
+		<debit/>
+		<timestamp>2018-06-29 13:33:34</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8702834</transactionId>
+		<accountId>434</accountId>
+		<description>Photobug</description>
+		<credit/>
+		<debit>-3493</debit>
+		<timestamp>2018-06-24 10:42:00</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7359754</transactionId>
+		<accountId>545</accountId>
+		<description>Zooxo</description>
+		<credit/>
+		<debit>-1068</debit>
+		<timestamp>2018-06-08 00:30:34</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5059709</transactionId>
+		<accountId>357</accountId>
+		<description>Brightdog</description>
+		<credit/>
+		<debit>-129</debit>
+		<timestamp>2018-06-15 08:31:36</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6842865</transactionId>
+		<accountId>905</accountId>
+		<description>Browsebug</description>
+		<credit/>
+		<debit>-315</debit>
+		<timestamp>2018-06-18 13:05:04</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>9767537</transactionId>
+		<accountId>984</accountId>
+		<description>Minyx</description>
+		<credit/>
+		<debit>-4674</debit>
+		<timestamp>2018-06-10 05:15:53</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7817751</transactionId>
+		<accountId>406</accountId>
+		<description>Vitz</description>
+		<credit/>
+		<debit>-4216</debit>
+		<timestamp>2018-06-16 12:51:36</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>1211588</transactionId>
+		<accountId>607</accountId>
+		<description>Linktype</description>
+		<credit/>
+		<debit>-3720</debit>
+		<timestamp>2018-06-08 07:37:55</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7350563</transactionId>
+		<accountId>767</accountId>
+		<description>Tagpad</description>
+		<credit/>
+		<debit>-3558</debit>
+		<timestamp>2018-06-05 05:25:06</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7715076</transactionId>
+		<accountId>44</accountId>
+		<description>Bubblemix</description>
+		<credit/>
+		<debit>-3435</debit>
+		<timestamp>2018-06-05 06:06:19</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>1648069</transactionId>
+		<accountId>500</accountId>
+		<description>Jaxnation</description>
+		<credit>9599.90</credit>
+		<debit/>
+		<timestamp>2018-06-16 04:49:06</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>1276637</transactionId>
+		<accountId>929</accountId>
+		<description>Izio</description>
+		<credit/>
+		<debit>-1325</debit>
+		<timestamp>2018-06-25 15:16:55</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8503482</transactionId>
+		<accountId>856</accountId>
+		<description>Mynte</description>
+		<credit/>
+		<debit>-268</debit>
+		<timestamp>2018-06-18 09:23:40</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>3038363</transactionId>
+		<accountId>494</accountId>
+		<description>Fivechat</description>
+		<credit/>
+		<debit>-3637</debit>
+		<timestamp>2018-06-29 20:37:17</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7878878</transactionId>
+		<accountId>828</accountId>
+		<description>Kwilith</description>
+		<credit/>
+		<debit>-481</debit>
+		<timestamp>2018-06-21 21:41:55</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5943015</transactionId>
+		<accountId>628</accountId>
+		<description>Avavee</description>
+		<credit/>
+		<debit>-1118</debit>
+		<timestamp>2018-06-25 03:03:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5025411</transactionId>
+		<accountId>119</accountId>
+		<description>Riffpath</description>
+		<credit>5217.79</credit>
+		<debit/>
+		<timestamp>2018-06-07 09:18:07</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>9835992</transactionId>
+		<accountId>684</accountId>
+		<description>Fliptune</description>
+		<credit/>
+		<debit>-1005</debit>
+		<timestamp>2018-06-12 04:34:46</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7754891</transactionId>
+		<accountId>750</accountId>
+		<description>Photospace</description>
+		<credit/>
+		<debit>-3134</debit>
+		<timestamp>2018-06-02 09:36:28</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>3565817</transactionId>
+		<accountId>443</accountId>
+		<description>Jetwire</description>
+		<credit/>
+		<debit>-164</debit>
+		<timestamp>2018-06-10 12:10:29</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5357304</transactionId>
+		<accountId>666</accountId>
+		<description>Fliptune</description>
+		<credit/>
+		<debit>-2775</debit>
+		<timestamp>2018-06-09 15:53:01</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6750265</transactionId>
+		<accountId>587</accountId>
+		<description>Photojam</description>
+		<credit/>
+		<debit>-607</debit>
+		<timestamp>2018-06-22 15:26:57</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8601106</transactionId>
+		<accountId>54</accountId>
+		<description>Topicware</description>
+		<credit/>
+		<debit>-2480</debit>
+		<timestamp>2018-06-17 22:42:43</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>3656238</transactionId>
+		<accountId>131</accountId>
+		<description>Bluezoom</description>
+		<credit/>
+		<debit>-1119</debit>
+		<timestamp>2018-06-24 03:46:15</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6179861</transactionId>
+		<accountId>33</accountId>
+		<description>Jabbercube</description>
+		<credit/>
+		<debit>-3981</debit>
+		<timestamp>2018-06-01 08:57:46</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>9786667</transactionId>
+		<accountId>997</accountId>
+		<description>Meeveo</description>
+		<credit/>
+		<debit>-2262</debit>
+		<timestamp>2018-06-22 23:38:28</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7584590</transactionId>
+		<accountId>760</accountId>
+		<description>Quinu</description>
+		<credit/>
+		<debit>-767</debit>
+		<timestamp>2018-06-29 03:39:45</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5575377</transactionId>
+		<accountId>810</accountId>
+		<description>JumpXS</description>
+		<credit>5441.98</credit>
+		<debit/>
+		<timestamp>2018-06-07 21:28:08</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8396861</transactionId>
+		<accountId>716</accountId>
+		<description>Realpoint</description>
+		<credit>9521.04</credit>
+		<debit/>
+		<timestamp>2018-06-14 18:44:20</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8911889</transactionId>
+		<accountId>357</accountId>
+		<description>Skyba</description>
+		<credit/>
+		<debit>-2671</debit>
+		<timestamp>2018-06-01 11:56:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>9537013</transactionId>
+		<accountId>274</accountId>
+		<description>Photolist</description>
+		<credit>22922.71</credit>
+		<debit/>
+		<timestamp>2018-06-03 17:53:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7629634</transactionId>
+		<accountId>626</accountId>
+		<description>Tavu</description>
+		<credit>3860.19</credit>
+		<debit/>
+		<timestamp>2018-06-14 05:06:04</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5568174</transactionId>
+		<accountId>36</accountId>
+		<description>Thoughtbridge</description>
+		<credit/>
+		<debit>-1575</debit>
+		<timestamp>2018-06-03 07:25:41</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7633774</transactionId>
+		<accountId>952</accountId>
+		<description>Rhynoodle</description>
+		<credit/>
+		<debit>-47</debit>
+		<timestamp>2018-06-11 16:14:38</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>1268865</transactionId>
+		<accountId>915</accountId>
+		<description>Gigazoom</description>
+		<credit/>
+		<debit>-575</debit>
+		<timestamp>2018-06-24 09:08:51</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5812968</transactionId>
+		<accountId>416</accountId>
+		<description>Oyoloo</description>
+		<credit>16656.46</credit>
+		<debit/>
+		<timestamp>2018-06-18 04:10:57</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>1460017</transactionId>
+		<accountId>725</accountId>
+		<description>Tagpad</description>
+		<credit/>
+		<debit>-4545</debit>
+		<timestamp>2018-06-29 12:12:27</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>9593135</transactionId>
+		<accountId>148</accountId>
+		<description>Edgeify</description>
+		<credit/>
+		<debit>-1559</debit>
+		<timestamp>2018-06-07 01:40:14</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>3401431</transactionId>
+		<accountId>202</accountId>
+		<description>Photolist</description>
+		<credit/>
+		<debit>-4662</debit>
+		<timestamp>2018-06-26 00:31:08</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>1988467</transactionId>
+		<accountId>823</accountId>
+		<description>Realmix</description>
+		<credit/>
+		<debit>-1335</debit>
+		<timestamp>2018-06-06 18:31:29</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8904752</transactionId>
+		<accountId>575</accountId>
+		<description>Izio</description>
+		<credit/>
+		<debit>-2199</debit>
+		<timestamp>2018-06-24 03:38:01</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6598116</transactionId>
+		<accountId>860</accountId>
+		<description>Janyx</description>
+		<credit/>
+		<debit>-3210</debit>
+		<timestamp>2018-06-26 01:19:01</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>2014418</transactionId>
+		<accountId>375</accountId>
+		<description>Avavee</description>
+		<credit/>
+		<debit>-3082</debit>
+		<timestamp>2018-06-20 03:10:27</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>2437078</transactionId>
+		<accountId>309</accountId>
+		<description>Yacero</description>
+		<credit>15068.06</credit>
+		<debit/>
+		<timestamp>2018-06-28 01:05:05</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5800980</transactionId>
+		<accountId>152</accountId>
+		<description>Trupe</description>
+		<credit>10815.87</credit>
+		<debit/>
+		<timestamp>2018-06-05 21:43:54</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>4363582</transactionId>
+		<accountId>651</accountId>
+		<description>Shufflebeat</description>
+		<credit/>
+		<debit>-1076</debit>
+		<timestamp>2018-06-11 18:21:19</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>4386848</transactionId>
+		<accountId>502</accountId>
+		<description>Mynte</description>
+		<credit/>
+		<debit>-419</debit>
+		<timestamp>2018-06-03 08:51:26</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7405332</transactionId>
+		<accountId>800</accountId>
+		<description>Skipstorm</description>
+		<credit/>
+		<debit>-374</debit>
+		<timestamp>2018-06-16 13:26:42</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6966710</transactionId>
+		<accountId>590</accountId>
+		<description>Skiptube</description>
+		<credit/>
+		<debit>-3929</debit>
+		<timestamp>2018-06-20 04:25:55</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8592960</transactionId>
+		<accountId>36</accountId>
+		<description>Jazzy</description>
+		<credit/>
+		<debit>-181</debit>
+		<timestamp>2018-06-09 09:35:28</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7687960</transactionId>
+		<accountId>721</accountId>
+		<description>Yozio</description>
+		<credit>17603.88</credit>
+		<debit/>
+		<timestamp>2018-06-19 10:46:09</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>3697100</transactionId>
+		<accountId>778</accountId>
+		<description>Nlounge</description>
+		<credit/>
+		<debit>-834</debit>
+		<timestamp>2018-06-17 17:14:53</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>2105819</transactionId>
+		<accountId>304</accountId>
+		<description>Roombo</description>
+		<credit/>
+		<debit>-3184</debit>
+		<timestamp>2018-06-03 08:26:08</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8054625</transactionId>
+		<accountId>28</accountId>
+		<description>Bubblemix</description>
+		<credit>9940.17</credit>
+		<debit/>
+		<timestamp>2018-06-18 07:48:35</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7652573</transactionId>
+		<accountId>175</accountId>
+		<description>Zoonder</description>
+		<credit/>
+		<debit>-4182</debit>
+		<timestamp>2018-06-16 01:43:48</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>9745967</transactionId>
+		<accountId>180</accountId>
+		<description>Zoomdog</description>
+		<credit/>
+		<debit>-2457</debit>
+		<timestamp>2018-06-12 02:43:01</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7913478</transactionId>
+		<accountId>481</accountId>
+		<description>Flashdog</description>
+		<credit>12193.14</credit>
+		<debit/>
+		<timestamp>2018-06-04 04:48:54</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7326181</transactionId>
+		<accountId>695</accountId>
+		<description>Ozu</description>
+		<credit/>
+		<debit>-945</debit>
+		<timestamp>2018-06-04 16:15:02</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>3667596</transactionId>
+		<accountId>187</accountId>
+		<description>Jabbersphere</description>
+		<credit/>
+		<debit>-210</debit>
+		<timestamp>2018-06-09 21:31:39</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6831003</transactionId>
+		<accountId>867</accountId>
+		<description>Meedoo</description>
+		<credit/>
+		<debit>-366</debit>
+		<timestamp>2018-06-22 02:12:45</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5039489</transactionId>
+		<accountId>237</accountId>
+		<description>Quatz</description>
+		<credit/>
+		<debit>-4238</debit>
+		<timestamp>2018-06-29 04:59:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5097067</transactionId>
+		<accountId>508</accountId>
+		<description>Eamia</description>
+		<credit>12950.71</credit>
+		<debit/>
+		<timestamp>2018-06-19 19:35:39</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>3977036</transactionId>
+		<accountId>951</accountId>
+		<description>Meejo</description>
+		<credit/>
+		<debit>-3507</debit>
+		<timestamp>2018-06-15 17:51:39</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>2272007</transactionId>
+		<accountId>743</accountId>
+		<description>Brainbox</description>
+		<credit/>
+		<debit>-1599</debit>
+		<timestamp>2018-06-29 06:39:24</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6951882</transactionId>
+		<accountId>501</accountId>
+		<description>Shuffletag</description>
+		<credit/>
+		<debit>-2197</debit>
+		<timestamp>2018-06-21 07:00:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7868043</transactionId>
+		<accountId>424</accountId>
+		<description>Katz</description>
+		<credit/>
+		<debit>-3084</debit>
+		<timestamp>2018-06-22 11:53:41</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8985368</transactionId>
+		<accountId>621</accountId>
+		<description>Feedbug</description>
+		<credit/>
+		<debit>-1760</debit>
+		<timestamp>2018-06-18 02:09:27</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7735827</transactionId>
+		<accountId>903</accountId>
+		<description>Eidel</description>
+		<credit>4897.00</credit>
+		<debit/>
+		<timestamp>2018-06-11 11:45:40</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>3657380</transactionId>
+		<accountId>394</accountId>
+		<description>Camido</description>
+		<credit>4128.23</credit>
+		<debit/>
+		<timestamp>2018-06-22 19:36:50</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7475362</transactionId>
+		<accountId>579</accountId>
+		<description>Kwimbee</description>
+		<credit>22140.66</credit>
+		<debit/>
+		<timestamp>2018-06-08 06:52:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8171077</transactionId>
+		<accountId>532</accountId>
+		<description>Jaxworks</description>
+		<credit/>
+		<debit>-3499</debit>
+		<timestamp>2018-06-28 07:46:29</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6868938</transactionId>
+		<accountId>932</accountId>
+		<description>Avamba</description>
+		<credit/>
+		<debit>-3492</debit>
+		<timestamp>2018-06-26 02:07:42</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>9083582</transactionId>
+		<accountId>369</accountId>
+		<description>Yakijo</description>
+		<credit>2903.71</credit>
+		<debit/>
+		<timestamp>2018-06-10 05:53:46</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>9727497</transactionId>
+		<accountId>852</accountId>
+		<description>Yacero</description>
+		<credit/>
+		<debit>-3758</debit>
+		<timestamp>2018-06-18 14:58:11</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5195965</transactionId>
+		<accountId>160</accountId>
+		<description>DabZ</description>
+		<credit>3194.11</credit>
+		<debit/>
+		<timestamp>2018-06-26 23:13:55</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5925615</transactionId>
+		<accountId>55</accountId>
+		<description>Skipfire</description>
+		<credit>6594.09</credit>
+		<debit/>
+		<timestamp>2018-06-10 00:25:50</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6564509</transactionId>
+		<accountId>815</accountId>
+		<description>Brightdog</description>
+		<credit/>
+		<debit>-240</debit>
+		<timestamp>2018-06-07 04:42:17</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>4043082</transactionId>
+		<accountId>500</accountId>
+		<description>Thoughtstorm</description>
+		<credit/>
+		<debit>-513</debit>
+		<timestamp>2018-06-25 05:27:54</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5521996</transactionId>
+		<accountId>879</accountId>
+		<description>Quimm</description>
+		<credit/>
+		<debit>-4913</debit>
+		<timestamp>2018-06-12 14:51:11</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6580079</transactionId>
+		<accountId>766</accountId>
+		<description>Avavee</description>
+		<credit/>
+		<debit>-3111</debit>
+		<timestamp>2018-06-15 01:00:48</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>2090609</transactionId>
+		<accountId>111</accountId>
+		<description>Roodel</description>
+		<credit/>
+		<debit>-2306</debit>
+		<timestamp>2018-06-26 15:33:26</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6676129</transactionId>
+		<accountId>624</accountId>
+		<description>Rhybox</description>
+		<credit>19519.63</credit>
+		<debit/>
+		<timestamp>2018-06-06 09:50:11</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7606181</transactionId>
+		<accountId>789</accountId>
+		<description>Realblab</description>
+		<credit/>
+		<debit>-1771</debit>
+		<timestamp>2018-06-06 10:55:02</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>2472991</transactionId>
+		<accountId>581</accountId>
+		<description>Jetpulse</description>
+		<credit/>
+		<debit>-2508</debit>
+		<timestamp>2018-06-20 04:37:35</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5259835</transactionId>
+		<accountId>737</accountId>
+		<description>Jazzy</description>
+		<credit/>
+		<debit>-4267</debit>
+		<timestamp>2018-06-28 10:25:37</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>9492284</transactionId>
+		<accountId>450</accountId>
+		<description>Divape</description>
+		<credit/>
+		<debit>-803</debit>
+		<timestamp>2018-06-06 09:20:01</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>1066606</transactionId>
+		<accountId>150</accountId>
+		<description>Jabbersphere</description>
+		<credit/>
+		<debit>-4007</debit>
+		<timestamp>2018-06-28 06:37:26</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>1490459</transactionId>
+		<accountId>624</accountId>
+		<description>Realcube</description>
+		<credit/>
+		<debit>-481</debit>
+		<timestamp>2018-06-27 12:05:52</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8388741</transactionId>
+		<accountId>260</accountId>
+		<description>Flashdog</description>
+		<credit/>
+		<debit>-414</debit>
+		<timestamp>2018-06-11 16:03:27</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7231960</transactionId>
+		<accountId>214</accountId>
+		<description>Trilith</description>
+		<credit/>
+		<debit>-3486</debit>
+		<timestamp>2018-06-25 04:05:16</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5838335</transactionId>
+		<accountId>685</accountId>
+		<description>Demizz</description>
+		<credit/>
+		<debit>-1643</debit>
+		<timestamp>2018-06-24 17:04:46</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>4142313</transactionId>
+		<accountId>23</accountId>
+		<description>Eare</description>
+		<credit/>
+		<debit>-1717</debit>
+		<timestamp>2018-06-18 10:09:22</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7345559</transactionId>
+		<accountId>463</accountId>
+		<description>Meevee</description>
+		<credit>5203.44</credit>
+		<debit/>
+		<timestamp>2018-06-24 03:30:03</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>3134129</transactionId>
+		<accountId>808</accountId>
+		<description>Shuffledrive</description>
+		<credit>20855.79</credit>
+		<debit/>
+		<timestamp>2018-06-09 11:12:22</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>1999738</transactionId>
+		<accountId>690</accountId>
+		<description>Quinu</description>
+		<credit/>
+		<debit>-1880</debit>
+		<timestamp>2018-06-23 04:53:11</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8286684</transactionId>
+		<accountId>506</accountId>
+		<description>Skinix</description>
+		<credit/>
+		<debit>-3884</debit>
+		<timestamp>2018-06-10 23:07:28</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>4924322</transactionId>
+		<accountId>719</accountId>
+		<description>Flipbug</description>
+		<credit>2509.06</credit>
+		<debit/>
+		<timestamp>2018-06-23 09:45:23</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5737969</transactionId>
+		<accountId>282</accountId>
+		<description>Flashspan</description>
+		<credit/>
+		<debit>-4554</debit>
+		<timestamp>2018-06-03 02:37:51</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>4751460</transactionId>
+		<accountId>986</accountId>
+		<description>Fanoodle</description>
+		<credit/>
+		<debit>-3796</debit>
+		<timestamp>2018-06-22 21:25:16</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>4628352</transactionId>
+		<accountId>539</accountId>
+		<description>Tazz</description>
+		<credit>23333.78</credit>
+		<debit/>
+		<timestamp>2018-06-23 04:00:01</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6680411</transactionId>
+		<accountId>902</accountId>
+		<description>Tagopia</description>
+		<credit/>
+		<debit>-1392</debit>
+		<timestamp>2018-06-22 01:53:25</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>3030300</transactionId>
+		<accountId>396</accountId>
+		<description>Mymm</description>
+		<credit/>
+		<debit>-2160</debit>
+		<timestamp>2018-06-20 01:47:53</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5692146</transactionId>
+		<accountId>128</accountId>
+		<description>Dazzlesphere</description>
+		<credit/>
+		<debit>-1029</debit>
+		<timestamp>2018-06-05 11:09:03</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>9116021</transactionId>
+		<accountId>695</accountId>
+		<description>Nlounge</description>
+		<credit/>
+		<debit>-4195</debit>
+		<timestamp>2018-06-08 10:01:44</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5496507</transactionId>
+		<accountId>905</accountId>
+		<description>Kanoodle</description>
+		<credit>1712.32</credit>
+		<debit/>
+		<timestamp>2018-06-17 01:34:29</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>9058308</transactionId>
+		<accountId>914</accountId>
+		<description>Youtags</description>
+		<credit/>
+		<debit>-4327</debit>
+		<timestamp>2018-06-03 06:32:10</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>3971325</transactionId>
+		<accountId>256</accountId>
+		<description>Twimbo</description>
+		<credit/>
+		<debit>-729</debit>
+		<timestamp>2018-06-22 17:06:48</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>1389964</transactionId>
+		<accountId>938</accountId>
+		<description>Dabvine</description>
+		<credit/>
+		<debit>-4704</debit>
+		<timestamp>2018-06-01 14:45:00</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>3004217</transactionId>
+		<accountId>498</accountId>
+		<description>Browsebug</description>
+		<credit/>
+		<debit>-845</debit>
+		<timestamp>2018-06-15 08:13:16</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>1065006</transactionId>
+		<accountId>300</accountId>
+		<description>Voonder</description>
+		<credit>543.53</credit>
+		<debit/>
+		<timestamp>2018-06-01 19:44:20</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>1078628</transactionId>
+		<accountId>670</accountId>
+		<description>Mydo</description>
+		<credit>3569.50</credit>
+		<debit/>
+		<timestamp>2018-06-03 23:10:04</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5859791</transactionId>
+		<accountId>518</accountId>
+		<description>Eayo</description>
+		<credit/>
+		<debit>-4975</debit>
+		<timestamp>2018-06-04 13:11:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>4264102</transactionId>
+		<accountId>968</accountId>
+		<description>Oodoo</description>
+		<credit/>
+		<debit>-1014</debit>
+		<timestamp>2018-06-16 21:35:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5537348</transactionId>
+		<accountId>368</accountId>
+		<description>Aivee</description>
+		<credit/>
+		<debit>-112</debit>
+		<timestamp>2018-06-25 09:34:52</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>1753822</transactionId>
+		<accountId>193</accountId>
+		<description>Eare</description>
+		<credit/>
+		<debit>-3861</debit>
+		<timestamp>2018-06-11 17:42:47</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5445059</transactionId>
+		<accountId>41</accountId>
+		<description>Zooveo</description>
+		<credit>388.24</credit>
+		<debit/>
+		<timestamp>2018-06-04 19:34:39</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>4821469</transactionId>
+		<accountId>171</accountId>
+		<description>Voomm</description>
+		<credit/>
+		<debit>-69</debit>
+		<timestamp>2018-06-28 21:05:34</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>1652823</transactionId>
+		<accountId>834</accountId>
+		<description>Demizz</description>
+		<credit/>
+		<debit>-3125</debit>
+		<timestamp>2018-06-13 22:12:46</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6635099</transactionId>
+		<accountId>214</accountId>
+		<description>Quimba</description>
+		<credit/>
+		<debit>-4082</debit>
+		<timestamp>2018-06-06 06:38:00</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>3241874</transactionId>
+		<accountId>86</accountId>
+		<description>Nlounge</description>
+		<credit/>
+		<debit>-661</debit>
+		<timestamp>2018-06-25 10:15:10</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6667366</transactionId>
+		<accountId>626</accountId>
+		<description>Photobug</description>
+		<credit/>
+		<debit>-3633</debit>
+		<timestamp>2018-06-04 04:08:08</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7499493</transactionId>
+		<accountId>701</accountId>
+		<description>Quaxo</description>
+		<credit/>
+		<debit>-1574</debit>
+		<timestamp>2018-06-21 13:06:02</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6759435</transactionId>
+		<accountId>591</accountId>
+		<description>Flashpoint</description>
+		<credit>458.15</credit>
+		<debit/>
+		<timestamp>2018-06-17 13:31:45</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6766883</transactionId>
+		<accountId>931</accountId>
+		<description>Wordify</description>
+		<credit>3530.65</credit>
+		<debit/>
+		<timestamp>2018-06-19 22:57:50</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7820743</transactionId>
+		<accountId>679</accountId>
+		<description>Twitterwire</description>
+		<credit/>
+		<debit>-2787</debit>
+		<timestamp>2018-06-08 18:11:28</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8606613</transactionId>
+		<accountId>689</accountId>
+		<description>Jamia</description>
+		<credit/>
+		<debit>-3056</debit>
+		<timestamp>2018-06-26 19:30:16</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>3253758</transactionId>
+		<accountId>32</accountId>
+		<description>Aimbu</description>
+		<credit/>
+		<debit>-4585</debit>
+		<timestamp>2018-06-12 23:24:50</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8020453</transactionId>
+		<accountId>139</accountId>
+		<description>Jayo</description>
+		<credit/>
+		<debit>-2033</debit>
+		<timestamp>2018-06-14 18:41:43</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6073748</transactionId>
+		<accountId>716</accountId>
+		<description>Dabjam</description>
+		<credit/>
+		<debit>-4832</debit>
+		<timestamp>2018-06-02 06:30:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>3813392</transactionId>
+		<accountId>984</accountId>
+		<description>InnoZ</description>
+		<credit>23806.91</credit>
+		<debit/>
+		<timestamp>2018-06-27 18:50:42</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>3109229</transactionId>
+		<accountId>651</accountId>
+		<description>Gabvine</description>
+		<credit/>
+		<debit>-1895</debit>
+		<timestamp>2018-06-06 03:40:37</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8001556</transactionId>
+		<accountId>29</accountId>
+		<description>Blogspan</description>
+		<credit/>
+		<debit>-1014</debit>
+		<timestamp>2018-06-27 19:59:19</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7987690</transactionId>
+		<accountId>391</accountId>
+		<description>Twimbo</description>
+		<credit/>
+		<debit>-3833</debit>
+		<timestamp>2018-06-03 14:13:10</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7663041</transactionId>
+		<accountId>994</accountId>
+		<description>Eare</description>
+		<credit/>
+		<debit>-225</debit>
+		<timestamp>2018-06-15 20:00:07</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8508898</transactionId>
+		<accountId>863</accountId>
+		<description>Youbridge</description>
+		<credit/>
+		<debit>-4453</debit>
+		<timestamp>2018-06-13 16:36:57</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>2352997</transactionId>
+		<accountId>756</accountId>
+		<description>JumpXS</description>
+		<credit>12131.00</credit>
+		<debit/>
+		<timestamp>2018-06-04 01:22:22</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>2010750</transactionId>
+		<accountId>101</accountId>
+		<description>Flipbug</description>
+		<credit/>
+		<debit>-72</debit>
+		<timestamp>2018-06-09 09:18:40</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>4961234</transactionId>
+		<accountId>210</accountId>
+		<description>Zooxo</description>
+		<credit>10412.82</credit>
+		<debit/>
+		<timestamp>2018-06-24 14:22:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7780739</transactionId>
+		<accountId>187</accountId>
+		<description>Tagopia</description>
+		<credit>22266.07</credit>
+		<debit/>
+		<timestamp>2018-06-12 21:59:58</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>2210479</transactionId>
+		<accountId>854</accountId>
+		<description>Latz</description>
+		<credit>17854.63</credit>
+		<debit/>
+		<timestamp>2018-06-23 15:38:35</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8944047</transactionId>
+		<accountId>915</accountId>
+		<description>Quinu</description>
+		<credit>6554.76</credit>
+		<debit/>
+		<timestamp>2018-06-02 20:27:50</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6294758</transactionId>
+		<accountId>141</accountId>
+		<description>Voonyx</description>
+		<credit/>
+		<debit>-3187</debit>
+		<timestamp>2018-06-05 01:25:45</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6292045</transactionId>
+		<accountId>200</accountId>
+		<description>Devcast</description>
+		<credit/>
+		<debit>-1673</debit>
+		<timestamp>2018-06-24 18:22:10</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>3641030</transactionId>
+		<accountId>347</accountId>
+		<description>Fivebridge</description>
+		<credit/>
+		<debit>-2106</debit>
+		<timestamp>2018-06-14 21:33:19</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5660243</transactionId>
+		<accountId>289</accountId>
+		<description>Vidoo</description>
+		<credit>8036.88</credit>
+		<debit/>
+		<timestamp>2018-06-18 00:04:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7372062</transactionId>
+		<accountId>978</accountId>
+		<description>Wordpedia</description>
+		<credit/>
+		<debit>-2971</debit>
+		<timestamp>2018-06-02 13:02:48</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5012651</transactionId>
+		<accountId>249</accountId>
+		<description>Brightdog</description>
+		<credit/>
+		<debit>-175</debit>
+		<timestamp>2018-06-10 00:04:18</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7460397</transactionId>
+		<accountId>881</accountId>
+		<description>Riffpath</description>
+		<credit/>
+		<debit>-2042</debit>
+		<timestamp>2018-06-16 19:16:15</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>2932469</transactionId>
+		<accountId>627</accountId>
+		<description>Skiptube</description>
+		<credit>23777.00</credit>
+		<debit/>
+		<timestamp>2018-06-26 07:22:06</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>4808068</transactionId>
+		<accountId>451</accountId>
+		<description>Abatz</description>
+		<credit>16925.13</credit>
+		<debit/>
+		<timestamp>2018-06-05 10:31:30</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>2405252</transactionId>
+		<accountId>185</accountId>
+		<description>Kwinu</description>
+		<credit>24026.10</credit>
+		<debit/>
+		<timestamp>2018-06-13 03:37:21</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8842778</transactionId>
+		<accountId>536</accountId>
+		<description>Kayveo</description>
+		<credit>23531.89</credit>
+		<debit/>
+		<timestamp>2018-06-05 16:55:12</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>2608700</transactionId>
+		<accountId>169</accountId>
+		<description>Riffpedia</description>
+		<credit/>
+		<debit>-1594</debit>
+		<timestamp>2018-06-13 01:19:31</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7344281</transactionId>
+		<accountId>327</accountId>
+		<description>Eidel</description>
+		<credit>18855.18</credit>
+		<debit/>
+		<timestamp>2018-06-13 03:19:07</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8818998</transactionId>
+		<accountId>936</accountId>
+		<description>Cogidoo</description>
+		<credit/>
+		<debit>-4485</debit>
+		<timestamp>2018-06-27 05:34:40</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8482030</transactionId>
+		<accountId>89</accountId>
+		<description>Jabberstorm</description>
+		<credit/>
+		<debit>-2760</debit>
+		<timestamp>2018-06-21 04:45:33</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>4051026</transactionId>
+		<accountId>369</accountId>
+		<description>Quatz</description>
+		<credit/>
+		<debit>-4915</debit>
+		<timestamp>2018-06-01 20:58:44</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>9798967</transactionId>
+		<accountId>790</accountId>
+		<description>Realbridge</description>
+		<credit>13264.20</credit>
+		<debit/>
+		<timestamp>2018-06-18 12:16:26</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>9501001</transactionId>
+		<accountId>592</accountId>
+		<description>Blogtags</description>
+		<credit/>
+		<debit>-2961</debit>
+		<timestamp>2018-06-07 03:25:28</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6027811</transactionId>
+		<accountId>852</accountId>
+		<description>Devpoint</description>
+		<credit>1576.72</credit>
+		<debit/>
+		<timestamp>2018-06-16 03:38:53</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7572783</transactionId>
+		<accountId>711</accountId>
+		<description>Twimbo</description>
+		<credit>5783.40</credit>
+		<debit/>
+		<timestamp>2018-06-27 20:53:29</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>2025442</transactionId>
+		<accountId>341</accountId>
+		<description>Trilia</description>
+		<credit/>
+		<debit>-4489</debit>
+		<timestamp>2018-06-05 22:36:52</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>6498623</transactionId>
+		<accountId>590</accountId>
+		<description>Aibox</description>
+		<credit/>
+		<debit>-3931</debit>
+		<timestamp>2018-06-18 06:39:15</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>1580341</transactionId>
+		<accountId>858</accountId>
+		<description>Twiyo</description>
+		<credit>4521.07</credit>
+		<debit/>
+		<timestamp>2018-06-13 01:19:25</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>2840344</transactionId>
+		<accountId>599</accountId>
+		<description>Skinte</description>
+		<credit/>
+		<debit>-1674</debit>
+		<timestamp>2018-06-14 01:08:20</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>3069371</transactionId>
+		<accountId>98</accountId>
+		<description>Tekfly</description>
+		<credit/>
+		<debit>-4635</debit>
+		<timestamp>2018-06-13 03:30:32</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8234128</transactionId>
+		<accountId>713</accountId>
+		<description>Voolith</description>
+		<credit/>
+		<debit>-4815</debit>
+		<timestamp>2018-06-17 18:52:05</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8417717</transactionId>
+		<accountId>673</accountId>
+		<description>Avamba</description>
+		<credit/>
+		<debit>-236</debit>
+		<timestamp>2018-06-10 20:25:22</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>5108170</transactionId>
+		<accountId>701</accountId>
+		<description>Myworks</description>
+		<credit>3614.68</credit>
+		<debit/>
+		<timestamp>2018-06-03 15:55:40</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>1983332</transactionId>
+		<accountId>615</accountId>
+		<description>Cogidoo</description>
+		<credit/>
+		<debit>-1570</debit>
+		<timestamp>2018-06-04 20:21:59</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7632481</transactionId>
+		<accountId>817</accountId>
+		<description>Ooba</description>
+		<credit>24746.62</credit>
+		<debit/>
+		<timestamp>2018-06-02 20:29:57</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>1347779</transactionId>
+		<accountId>357</accountId>
+		<description>Realbuzz</description>
+		<credit/>
+		<debit>-1852</debit>
+		<timestamp>2018-06-25 01:17:31</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8582203</transactionId>
+		<accountId>907</accountId>
+		<description>Quamba</description>
+		<credit/>
+		<debit>-560</debit>
+		<timestamp>2018-06-20 06:45:19</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>8570659</transactionId>
+		<accountId>73</accountId>
+		<description>Avavee</description>
+		<credit>16333.20</credit>
+		<debit/>
+		<timestamp>2018-06-13 23:15:15</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>2337030</transactionId>
+		<accountId>597</accountId>
+		<description>Plambee</description>
+		<credit>11180.67</credit>
+		<debit/>
+		<timestamp>2018-06-28 02:56:54</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>3544839</transactionId>
+		<accountId>955</accountId>
+		<description>Yakidoo</description>
+		<credit/>
+		<debit>-1960</debit>
+		<timestamp>2018-06-08 12:24:04</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>7593458</transactionId>
+		<accountId>77</accountId>
+		<description>Skibox</description>
+		<credit/>
+		<debit>-3961</debit>
+		<timestamp>2018-06-07 15:30:42</timestamp>
+	</transaction>
+	<transaction>
+		<transactionId>4680869</transactionId>
+		<accountId>17</accountId>
+		<description>Dynava</description>
+		<credit/>
+		<debit>-4775</debit>
+		<timestamp>2018-06-17 17:20:25</timestamp>
+	</transaction>
+</transactions>

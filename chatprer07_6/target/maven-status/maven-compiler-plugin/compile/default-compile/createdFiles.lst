@@ -1,0 +1,9 @@
+com\example\chatprer07_6\batch\TransactionLineTokenizer.class
+com\example\chatprer07_6\batch\CustomerFileReader.class
+com\example\chatprer07_6\batch\CustomerFieldSetMapper.class
+com\example\chatprer07_6\batch\TransactionFieldSetMapper.class
+com\example\chatprer07_6\MyJobConfig.class
+com\example\chatprer07_6\batch\CustomerLineTokenizer.class
+com\example\chatprer07_6\HelloApplication.class
+com\example\chatprer07_6\domain\Customer.class
+com\example\chatprer07_6\domain\Transaction.class

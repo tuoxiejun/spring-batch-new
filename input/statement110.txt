@@ -1,0 +1,50 @@
+                                                                                                 Customer Service Number
+                                                                                                          (800) 867-5309
+                                                                                                          Available 24/7
+
+
+
+Dev Hovey                                                                                                 Apress Banking
+185 Barby Terrace                                                                                  1060 West Addison St.
+Bloomington, Indiana 47405                                                                             Chicago, IL 60613
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/01/18          Yadel                                                  -300.00
+               06/10/18          Eire                                                  -2622.00
+                                                                    Total Debit:       -2922.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:           22671.20
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/12/18          Edgeify                                               -1545.00
+                                                                    Total Debit:       -1545.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:          -10648.40
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/17/18          Zoomdog                                                 617.50
+                                                                    Total Debit:           0.00
+                                                                    Total Credit:        617.50
+                                                                    Balance:           22671.20
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/23/18          Tavu                                                   2411.80
+               06/24/18          Zoombox                                               -1256.00
+               06/24/18          Katz                                                  -4595.00
+                                                                    Total Debit:       -5851.00
+                                                                    Total Credit:       2411.80
+                                                                    Balance:             646.38
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/26/18          Shuffletag                                            -1381.00
+               06/27/18          Feednation                                            -4322.00
+                                                                    Total Debit:       -5703.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:          -10648.40
+
+

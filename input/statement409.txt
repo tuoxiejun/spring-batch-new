@@ -1,0 +1,56 @@
+                                                                                                 Customer Service Number
+                                                                                                          (800) 867-5309
+                                                                                                          Available 24/7
+
+
+
+Lyman Polglase                                                                                            Apress Banking
+027 Haas Street                                                                                    1060 West Addison St.
+Lexington, Kentucky 40524                                                                              Chicago, IL 60613
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/01/18          Quaxo                                                   -96.00
+               06/05/18          Shufflester                                           -3498.00
+                                                                    Total Debit:       -3594.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:           17471.70
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/07/18          Skippad                                               -3691.00
+                                                                    Total Debit:       -3691.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:           -4231.74
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/13/18          Omba                                                  22294.10
+                                                                    Total Debit:           0.00
+                                                                    Total Credit:      22294.10
+                                                                    Balance:           21684.30
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/15/18          Buzzster                                               3483.83
+                                                                    Total Debit:           0.00
+                                                                    Total Credit:       3483.83
+                                                                    Balance:           17471.70
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/15/18          Eare                                                   -225.00
+               06/21/18          Trunyx                                                -2734.00
+                                                                    Total Debit:       -2959.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:           -4231.74
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/26/18          Thoughtbeat                                           -1589.00
+               06/27/18          Eayo                                                  -3557.00
+                                                                    Total Debit:       -5146.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:           21684.30
+
+

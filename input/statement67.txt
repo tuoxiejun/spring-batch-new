@@ -1,0 +1,32 @@
+                                                                                                 Customer Service Number
+                                                                                                          (800) 867-5309
+                                                                                                          Available 24/7
+
+
+
+Vlad Hunnybun                                                                                             Apress Banking
+192 Browning Pass                                                                                  1060 West Addison St.
+Albuquerque, New Mexico 87115                                                                          Chicago, IL 60613
+
+Your Account Summary                                                               Statement Period 05/04/18 to 10/16/24
+
+                                                                    Total Debit:           0.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:           -2370.60
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/01/18          Dabjam                                                 6224.47
+                                                                    Total Debit:           0.00
+                                                                    Total Credit:       6224.47
+                                                                    Balance:           15195.90
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/12/18          Jaxspan                                               -1845.00
+               06/20/18          Lazzy                                                 22815.00
+                                                                    Total Debit:       -1845.00
+                                                                    Total Credit:      22815.00
+                                                                    Balance:           34318.40
+
+

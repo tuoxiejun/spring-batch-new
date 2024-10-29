@@ -1,0 +1,20 @@
+spring:
+  batch:
+    jdbc:
+      initialize-schema: never
+    job:
+      names: externalizeJob
+#  datasource:
+#    datasource1:
+#      driverClassName: com.mysql.cj.jdbc.Driver
+#      url: jdbc:mysql://localhost:3306/datasource1
+#      username: root
+#      password: root
+#      platform: mysql
+#    datasource2:
+#      driverClassName: com.mysql.cj.jdbc.Driver
+#      url: jdbc:mysql://localhost:3306/datasource2
+#      username: root
+#      password: root
+#      platform: mysql
+#    schema: classpath:/schema-batch-foo.sql

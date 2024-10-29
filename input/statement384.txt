@@ -1,0 +1,56 @@
+                                                                                                 Customer Service Number
+                                                                                                          (800) 867-5309
+                                                                                                          Available 24/7
+
+
+
+Ebenezer Ingre                                                                                            Apress Banking
+88 Morrow Court                                                                                    1060 West Addison St.
+Seattle, Washington 85715                                                                              Chicago, IL 60613
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/01/18          Jabbercube                                            -3981.00
+                                                                    Total Debit:       -3981.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:            7785.22
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/09/18          Jabberbean                                             5017.98
+                                                                    Total Debit:           0.00
+                                                                    Total Credit:       5017.98
+                                                                    Balance:            6123.17
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/10/18          Browsebug                                             -3195.00
+               06/10/18          Meevee                                                -3901.00
+                                                                    Total Debit:       -7096.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:            7785.22
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/11/18          Meedoo                                                -2650.00
+               06/19/18          Avamba                                                -2479.00
+               06/20/18          Photolist                                             -1961.00
+                                                                    Total Debit:       -7090.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:            6123.17
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/26/18          Janyx                                                 11292.80
+                                                                    Total Debit:           0.00
+                                                                    Total Credit:      11292.80
+                                                                    Balance:           25727.80
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/26/18          Blogtags                                               -822.00
+                                                                    Total Debit:        -822.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:            6123.17
+
+

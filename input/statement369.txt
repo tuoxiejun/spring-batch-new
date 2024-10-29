@@ -1,0 +1,61 @@
+                                                                                                 Customer Service Number
+                                                                                                          (800) 867-5309
+                                                                                                          Available 24/7
+
+
+
+Karola Weatherburn                                                                                        Apress Banking
+3729 Farwell Parkway                                                                               1060 West Addison St.
+Memphis, Tennessee 43210                                                                               Chicago, IL 60613
+
+Your Account Summary                                                               Statement Period 05/24/18 to 10/16/24
+
+                                                                    Total Debit:           0.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:           12173.90
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/03/18          Browsetype                                            -1492.00
+                                                                    Total Debit:       -1492.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:             785.76
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/05/18          Rhynyx                                                -3840.00
+                                                                    Total Debit:       -3840.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:           42841.80
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/05/18          Trilia                                                -4489.00
+               06/08/18          Flipopia                                              -1626.00
+                                                                    Total Debit:       -6115.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:             987.86
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/16/18          Riffpath                                              -2042.00
+                                                                    Total Debit:       -2042.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:           20586.80
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/20/18          Wordpedia                                             -1374.00
+                                                                    Total Debit:       -1374.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:             785.76
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/20/18          Browsetype                                            15375.10
+               06/29/18          Yata                                                  21157.10
+                                                                    Total Debit:           0.00
+                                                                    Total Credit:      36532.20
+                                                                    Balance:           42841.80
+
+

@@ -1,0 +1,4 @@
+com\example\chatprer08_2\MyJobConfig.class
+com\example\chatprer08_2\domain\Customer.class
+com\example\chatprer08_2\HelloApplication.class
+com\example\chatprer08_2\batch\UniqueLastNameValidator.class

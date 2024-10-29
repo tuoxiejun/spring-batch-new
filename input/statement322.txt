@@ -1,0 +1,75 @@
+                                                                                                 Customer Service Number
+                                                                                                          (800) 867-5309
+                                                                                                          Available 24/7
+
+
+
+Klement Bullivent                                                                                         Apress Banking
+284 Chinook Hill                                                                                   1060 West Addison St.
+Denver, Colorado 80262                                                                                 Chicago, IL 60613
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/07/18          Omba                                                  20859.20
+                                                                    Total Debit:           0.00
+                                                                    Total Credit:      20859.20
+                                                                    Balance:           19779.30
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/07/18          Shufflebeat                                           -1442.00
+               06/07/18          Ntag                                                   7489.75
+                                                                    Total Debit:       -1442.00
+                                                                    Total Credit:       7489.75
+                                                                    Balance:           31716.90
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/09/18          Voonte                                                -3053.00
+                                                                    Total Debit:       -3053.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:           -9575.30
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/11/18          Eidel                                                  4897.00
+                                                                    Total Debit:           0.00
+                                                                    Total Credit:       4897.00
+                                                                    Balance:           31716.90
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/11/18          Linkbuzz                                              -2537.00
+                                                                    Total Debit:       -2537.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:           -9575.30
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/18/18          Shuffletag                                            -4534.00
+                                                                    Total Debit:       -4534.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:           -7678.32
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/19/18          Feedbug                                               -3283.00
+                                                                    Total Debit:       -3283.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:           -9575.30
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/25/18          Innojam                                               -4143.00
+                                                                    Total Debit:       -4143.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:           31716.90
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/28/18          Aimbo                                                 -4209.00
+                                                                    Total Debit:       -4209.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:           -7678.32
+
+

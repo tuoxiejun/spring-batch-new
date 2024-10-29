@@ -1,0 +1,5 @@
+com\example\chatprer09_18\HelloApplication.class
+com\example\chatprer09_18\HibernateImportJob.class
+com\example\chatprer09_18\component\CustomerOutputFileSuffixCreator.class
+com\example\chatprer09_18\CustomFooterCallback.class
+com\example\chatprer09_18\domain\Customer.class

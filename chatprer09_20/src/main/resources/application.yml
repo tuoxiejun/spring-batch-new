@@ -1,0 +1,21 @@
+spring:
+  batch:
+    jdbc:
+      initialize-schema: always
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/spring_batch
+    username: root
+    password: root
+    platform: mysql
+  mail:
+    host: smtp.qq.com
+    port: 587
+    username: 1351028814@qq.com
+    password: fqdqoihfuxicgbii
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true

@@ -1,0 +1,46 @@
+                                                                                                 Customer Service Number
+                                                                                                          (800) 867-5309
+                                                                                                          Available 24/7
+
+
+
+George Embery                                                                                             Apress Banking
+05 Browning Alley                                                                                  1060 West Addison St.
+Pensacola, Florida 32575                                                                               Chicago, IL 60613
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/05/18          Thoughtworks                                          16995.80
+                                                                    Total Debit:           0.00
+                                                                    Total Credit:      16995.80
+                                                                    Balance:           33612.80
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/09/18          Zoonoodle                                              -585.00
+                                                                    Total Debit:        -585.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:           22387.80
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/11/18          Zoomlounge                                            -3137.00
+                                                                    Total Debit:       -3137.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:           33612.80
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/12/18          Shufflebeat                                           -1169.00
+                                                                    Total Debit:       -1169.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:           22387.80
+
+Your Account Summary                                                               Statement Period 10/16/24 to 10/16/24
+
+               06/19/18          Roomm                                                  -667.00
+                                                                    Total Debit:        -667.00
+                                                                    Total Credit:          0.00
+                                                                    Balance:            1535.41
+
+
